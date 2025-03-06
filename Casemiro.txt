@@ -1,0 +1,8 @@
+git init 
+inicializar
+
+git add .
+verificar as alterações
+
+git commit
+enviar alterações
